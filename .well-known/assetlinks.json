@@ -1,14 +1,1 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "tv.frankie.installprobe",
-      "sha256_cert_fingerprints": [
-        "5A:EB:3C:B1:DD:70:93:CF:05:52:8D:F6:6E:BA:B5:5B:07:3A:F8:95:95:0B:A5:01:5C:8D:09:6C:D6:00:E2:43"
-      ]
-    }
-  }
-]
+[]
